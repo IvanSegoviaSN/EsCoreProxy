@@ -1,0 +1,14 @@
+# Core Principal | Plugin privado y confidencial. 
+# NO compartir. 
+# CUIDADO cuando compartimos PANTALLA.
+#                                                       (CLAVES EN TEXTO PLANO)
+
+name: esCoreProxy
+main: esmine.escore.Core
+version: 1.0
+website: dev.esmine.es
+description: Core de esCoreProxy
+authors: [HellFireb, Hamenesku]
+
+commands:
+permissions:
